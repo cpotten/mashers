@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEE FLIP</string>
+    <string name="random_generator">Random Generator</string>
+    <string name="handicap_calculator">Handicap Calculator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

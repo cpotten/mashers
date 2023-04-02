@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_random_generator"
+            android:icon="@drawable/ic_baseline_shuffle_24"
+            android:title="Tee Flip" />
+        <item
+            android:id="@+id/nav_handicap_calculator"
+            android:icon="@drawable/ic_baseline_calculate_24"
+            android:title="Handicap Calculator" />
+        <item
+            android:id="@+id/nav_handicap_tracker"
+            android:icon="@drawable/ic_baseline_calculate_24"
+            android:title="Handicap Tracker" />
+    </group>
+</menu>
